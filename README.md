@@ -1,5 +1,8 @@
 # Jie0512.github.io
-<style>
+<script>
+$(document).ready(function() {
+    $("button").addClass("animated bounce");
+
 .is-bouncing {
             /* 'bounce-animation' 是我們在下面定義的動畫名稱
               持續 0.8 秒
@@ -13,7 +16,8 @@
             70%  { transform: translateY(-10px); } /* 再小彈一下 */
             100% { transform: translateY(0); }     /* 結束 */
         }  
-</style>
+              });
+</script>
 <h2>Jie's personal page</h2>
 
 <main>
