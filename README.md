@@ -1,19 +1,29 @@
 # Jie0512.github.io
-<!DOCTYPE html>
-<html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的個人網頁</title>
-</head>
-<body>
-    <h1>歡迎來到我的 GitHub 頁面</h1>
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
 
-    <div id="message" style="margin-top: 20px;"></div>
+  <a href="#"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
-    <button id="my-button">點我</button>
-
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="script.js"></script>
-</body>
-</html>
+  <p>Things cats love:</p>
+  <ul>
+    <li>catnip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <form action="https://www.freecatphotoapp.com/submit-cat-photo">
+    <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
+    <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label><br>
+    <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
+    <label for="lazy"><input id="lazy" type="checkbox" name="personality"> Lazy</label>
+    <label for="energetic"><input id="energetic" type="checkbox" name="personality"> Energetic</label><br>
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
+  </form>
+</main>
