@@ -1,15 +1,15 @@
 # Jie0512.github.io
-<h2>CatPhotoApp</h2>
+<h2>Jie's personal page</h2>
 <main>
-  <p>Click here to view more <a href="#">cat photos</a>.</p>
+  <p>Click here to view more <a href="#">about me</a>.</p>
 
-  <a href="#"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="https://cdn2.ettoday.net/images/8323/8323998.jpg" alt="最近常看的動漫"></a>
 
-  <p>Things cats love:</p>
+  <p>Things i love:</p>
   <ul>
-    <li>catnip</li>
-    <li>laser pointers</li>
-    <li>lasagna</li>
+    <li>睡覺</li>
+    <li>玩電動</li>
+    
   </ul>
   <p>Top 3 things cats hate:</p>
   <ol>
