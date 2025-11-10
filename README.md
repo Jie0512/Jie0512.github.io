@@ -1,6 +1,4 @@
 # Jie0512.github.io
-<!DOCTYPE html>
-<html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,19 +64,28 @@
         }
     </style>
 </head>
-<body>
+<h2>Jie's personal page</h2>
 
-    <h2>Jie's personal page</h2>
-    <main>
-      <p>Click here to view more <a href="#">about me</a>.</p>
-    
-      <a href="#"><img id="anime-image" src="https://cdn2.ettoday.net/images/8323/8323998.jpg" alt="最近常看的動漫"></a>
-    
-      <p>Things i love:</p>
-      <ul>
-        <li>睡覺</li>
-        <li>玩電動</li>
-      </ul>
-    </main>
+<main>
 
-    <script src="https://
+  <p>Click here to view more <a href="#">about me</a>.</p>
+
+
+
+  <a href="#"><img src="https://cdn2.ettoday.net/images/8323/8323998.jpg" alt="最近常看的動漫"></a>
+
+
+
+  <p>Things i love:</p>
+
+  <ul>
+
+    <li>睡覺</li>
+
+    <li>玩電動</li>
+
+    
+
+  </ul>
+
+</main>
