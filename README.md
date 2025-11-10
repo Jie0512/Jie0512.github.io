@@ -1,12 +1,10 @@
 # Jie0512.github.io
 <script>
 $(document).ready(function() {
-    $("button").addClass("animated bounce");
+    
 
 .is-bouncing {
-            /* 'bounce-animation' 是我們在下面定義的動畫名稱
-              持續 0.8 秒
-            */
+            
             animation: bounce-animation 0.8s;
         }
   @keyframes bounce-animation {
